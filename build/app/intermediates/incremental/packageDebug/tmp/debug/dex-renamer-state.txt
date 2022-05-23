@@ -1,0 +1,4 @@
+#Mon May 23 12:48:29 GST 2022
+base.0=/Users/apple/StudioProjects/rubber_baby/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
